@@ -1,0 +1,25 @@
+.header-bar{
+  width: 100vw;
+  height: 12vh;
+  background: rgb(67, 150, 245);
+  display: flex;
+  align-items: center;
+}
+
+.header-button{
+   display: flex;
+   margin-left: 14px;
+   font-size: 40px;
+   height: 30px;
+   width: 85px;
+   background: transparent;
+   border: none;
+   font-family: 'Cuprum', sans-serif;
+   font-weight: 30;
+}
+
+.header-button:hover{
+   cursor: pointer;
+   margin-left: px;
+   font-weight: bold;
+}
